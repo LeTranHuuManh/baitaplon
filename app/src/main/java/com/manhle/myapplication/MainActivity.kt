@@ -11,6 +11,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             Login(
+// Tran Xuan Duc test
                 navigateToSignUp = { }
             )
         }
