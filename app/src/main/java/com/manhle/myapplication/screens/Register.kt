@@ -51,7 +51,7 @@ fun Register(
 
     Row(
         modifier = Modifier.fillMaxWidth()
-            .padding(20.dp),
+            .padding(30.dp),
         horizontalArrangement = Arrangement.Start
     ) {
         Image(
