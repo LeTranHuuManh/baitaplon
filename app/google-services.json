@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989321267269",
+    "project_id": "order-food-49f05",
+    "storage_bucket": "order-food-49f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989321267269:android:df314c3bce5f10f32ebb2c",
+        "android_client_info": {
+          "package_name": "com.manhle.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4iB1bjVJlbwQPp2aCZfFqoJXt1xH2Ucc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
