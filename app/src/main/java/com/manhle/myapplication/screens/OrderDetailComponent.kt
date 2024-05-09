@@ -45,6 +45,7 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.orderfoodapp.ui.theme.colorGreenDark
 import com.manhle.myapplication.R
 
 @OptIn(ExperimentalFoundationApi::class)
@@ -226,7 +227,7 @@ fun Order(){
                                             }
                                             Button(
                                                 onClick = { /*TODO*/ },
-                                                colors = ButtonDefaults.buttonColors(Green),
+                                                colors = ButtonDefaults.buttonColors(colorGreenDark),
                                                 modifier = Modifier
 
                                                     .clip(RoundedCornerShape(30.dp))
@@ -324,7 +325,7 @@ fun Order(){
                                             }
                                             Button(
                                                 onClick = { /*TODO*/ },
-                                                colors = ButtonDefaults.buttonColors(Green),
+                                                colors = ButtonDefaults.buttonColors(colorGreenDark),
                                                 modifier = Modifier
 
                                                     .clip(RoundedCornerShape(30.dp))
@@ -422,7 +423,7 @@ fun Order(){
                                             }
                                             Button(
                                                 onClick = { /*TODO*/ },
-                                                colors = ButtonDefaults.buttonColors(Green),
+                                                colors = ButtonDefaults.buttonColors(colorGreenDark),
                                                 modifier = Modifier
 
                                                     .clip(RoundedCornerShape(30.dp))

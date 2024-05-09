@@ -14,7 +14,7 @@ val colorWhite = Color(0xFFFFFFFF)
 val colorGreenDark = Color(0xE26FAD72)
 val colorlightcyan = Color(0xFFB0E0E6)
 val colorRedGrayLight= Color(0xFFFEE8E8)
-val colorGreenlight= Color(0xDC0097A7)
+val colorGreenlight= Color(0xBF00A716)
 val colorWhiteGray= Color(0xDCF5F6F7)
 
 
